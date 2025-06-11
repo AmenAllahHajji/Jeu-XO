@@ -13,6 +13,16 @@ L'application propose deux modes de jeu :
 - Affichage du gagnant ou d’une égalité
 - Redémarrage d'une partie facilement
 
+## Bibliothèques utilisées
+1. **subprocess**  
+   Permet de lancer des processus externes depuis un script Python.  
+   Utilisée ici pour appeler d’autres interfaces ou scripts selon le mode de jeu choisi.
+
+2. **sys**  
+   Fournit des outils pour interagir avec l’environnement Python, notamment pour récupérer le chemin de l’interpréteur Python, ce qui facilite le lancement des autres scripts.
+
+
+
 ## Installation
 1. Cloner ce dépôt :
    ```bash
