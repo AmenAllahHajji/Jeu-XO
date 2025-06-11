@@ -20,6 +20,10 @@ L'application propose deux modes de jeu :
 
 2. **sys**  
    Fournit des outils pour interagir avec l’environnement Python, notamment pour récupérer le chemin de l’interpréteur Python, ce qui facilite le lancement des autres scripts.
+   
+4. **Pillow (PIL)**  
+   Bibliothèque Python pour ouvrir, manipuler, et enregistrer des images dans différents formats.  
+   Utilisée ici pour charger et afficher des images dans l’interface graphique, notamment via les modules `Image` et `ImageTk` pour Tkinter.
 
 
 
