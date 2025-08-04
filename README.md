@@ -25,10 +25,3 @@ L'application propose deux modes de jeu :
    Bibliothèque Python pour ouvrir, manipuler, et enregistrer des images dans différents formats.  
    Utilisée ici pour charger et afficher des images dans l’interface graphique, notamment via les modules `Image` et `ImageTk` pour Tkinter.
 
-
-
-## Installation
-1. Cloner ce dépôt :
-   ```bash
-   git clone https://github.com/<ton-nom-utilisateur>/jeu-xo-python.git
-   cd jeu-xo-python
